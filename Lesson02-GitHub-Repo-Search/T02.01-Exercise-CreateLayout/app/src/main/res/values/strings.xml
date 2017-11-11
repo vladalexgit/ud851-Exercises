@@ -15,4 +15,7 @@
   -->
 <resources>
     <string name="app_name">Github Query</string>
+    <string name="query_hint">Enter query and click search</string>
+    <string name="tv_url_hint">The search url will show up here when you click search</string>
+    <string name="tv_search_hint">Make a search!</string>
 </resources>
